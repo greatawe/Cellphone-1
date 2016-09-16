@@ -7,7 +7,7 @@ Create a program that allows a user to enter 10 cellphone numbers
 * and the totals for each service provider is output
   
   ##extras
-  * put each service proveder in its own list
+  * put each service provider in its own list
   * make sure each number is unique
   
   ## method
